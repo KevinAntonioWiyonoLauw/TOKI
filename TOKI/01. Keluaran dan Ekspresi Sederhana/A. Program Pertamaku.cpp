@@ -22,10 +22,7 @@ int main(){
     std::ios::sync_with_stdio(false);
     cin.tie(NULL); cout.tie(NULL);
  
-    string teks;
-    getline(cin, teks);
-    cout << teks;
-
-
+    cout << "Halo, dunia!";
+ 
   return 0;
 }
